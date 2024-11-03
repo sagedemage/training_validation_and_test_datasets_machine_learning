@@ -9,9 +9,11 @@
 
 
 ## Train-Test Split Evaluation
-The **train-test split** is a technique for evaluating the performance of a machine learning algorithm. It can be used for classification or regression problems and can be used for any supervised learning algorithm.
+The **train-test split** is a method for evaluating the performance of a machine learning model.
 
-The **train-test split procedure** involves taking a dataset and dividing it into two subsets. The first subset is used to fit the model (<u>training dataset</u>). The second subset is not used to train the model and the input element of the dataset is provided to the model, then predictions are made and compared to the expected values (<u>test dataset</u>).
+The **train-test split procedure** involves taking a dataset and dividing it into the <u>training</u> and the <u>test</u> datasets.
+- The first dataset is used to fit the model.
+- The second dataset is not used to train the model and the input component of the dataset is provided to the model, then predictions are made and compared to the expected values.
 
 
 ## Advice on Model Evaluation
@@ -36,4 +38,6 @@ Diagram of splitting the dataset into <u>training</u> and <u>validation</u> data
     - [Train-Test Split for Evaluating Machine Learning Algorithms](https://machinelearningmastery.com/train-test-split-for-evaluating-machine-learning-algorithms/)
 - [How to Train and Test Data Like a Pro - Data Masters Club](https://sdsclub.com/how-to-train-and-test-data-like-a-pro/)
 - [Training, validation, and test data sets - Wikipedia](https://en.wikipedia.org/wiki/Training%2C_validation%2C_and_test_data_sets) 
-- ["Train, Validation, Test Split” explained in 200 words - Thaddeus Segura](https://thaddeus-segura.com/train-test-split/) 
+- ["Train, Validation, Test Split” explained in 200 words - Thaddeus Segura](https://thaddeus-segura.com/train-test-split/)
+- [How To Do Train Test Split Using Sklearn In Python - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-do-train-test-split-using-sklearn-in-python/)
+- [Train Test Split – How to split data into train and test for validating machine learning models? - machinelearningplus](https://www.machinelearningplus.com/machine-learning/train-test-split/)
