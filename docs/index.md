@@ -11,7 +11,7 @@
 ## Train-Test Split Evaluation
 The **train-test split** is a method for evaluating the performance of a machine learning model.
 
-The **train-test split procedure** involves taking a dataset and dividing it into the <u>training</u> and the <u>test</u> datasets.
+The <u>train-test split procedure</u> involves taking a dataset and dividing it into the <u>training</u> and <u>test</u> datasets.
 - The first dataset is used to fit the model.
 - The second dataset is not used to train the model and the input component of the dataset is provided to the model, then predictions are made and compared to the expected values.
 
